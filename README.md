@@ -6,7 +6,7 @@
 
 - 💻 Fullstack Developer.
 - :books: BCA Degree
-- 🌐 [theGoddo Website](thegoddo.github.io)
+- 🌐 [Website](thegoddo.github.io)
 - 📫 [Contact Me](mailto:biswajitshaw@protonmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegoddo&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
