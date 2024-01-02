@@ -7,5 +7,4 @@
 - 💻 Fullstack Developer.
 - :books: BCA Degree
 - 🌐 [theGoddo Website](thegoddo.github.io)
-
-<a href="mailto:biswajitshaw@protonmail.com>Contact Me</a>
+- 📫 [Contact Me](mailto:biswajitshaw@protonmail.com)
