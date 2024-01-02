@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 This is Biswajit Shaw 😄
+---
+### A enthusiastic  software Dev.
+
+![Profile Views](https://komarev.com/ghpvc/?username=thegoddo&label=Profile%20Views&color=0e75b6&style=flat)
+
+Fullstack Developer.
+BCA Degree
+Website
+
+<a href="mailto:biswajitshaw@protonmail.com>Contact Me</a>
 
 <!--
 **thegoddo/thegoddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
