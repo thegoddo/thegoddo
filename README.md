@@ -1,7 +1,6 @@
 # theGoddo
 
 <!-- markdownlint-disable MD033 MD013 -->
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/thegoddo/thegoddo/main/assets/crew.png" alt="Strawhat crew art" width="25%" align="right" />
@@ -15,7 +14,7 @@
     🐾 Sheru 🐶 • samosa & biryani & litti - chokha 😋🍴
 </pre>
 <br>
-<img src="./assets/hat.png" alt="Kyubey gif" height="40" />
+<!-- <img src="./assets/hat.png" alt="Kyubey gif" height="40" /> -->
 <br clear="right" />
 <br><br>
 </div>
@@ -32,4 +31,10 @@
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" alt="VSCode">
 </p>
 
+---
+
+<div align="center">
+<img src="./assets/hat.png" alt="Kyubey gif" height="40" />
+<br clear="right" />
+</div>
 <!-- markdownlint-enable MD033 MD013 -->
