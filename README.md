@@ -30,7 +30,7 @@
 | NETWATCH          | Network monitoring and observation utility                                    | MERN + Networking tools | [GitHub](https://github.com/thegoddo/NETWATCH)        |
 | BaatCheet Backend | Backend services for chat/messaging workflows                                 | MERN (Backend)          | [GitHub](https://github.com/thegoddo/backend)         |
 | Chip8             | CHIP-8 emulator project for low-level systems learning                        | C/C++                   | [GitHub](https://github.com/thegoddo/chip_8)          |
-| Finance Backend   | Backend APIs for finance-related workflows                                    | Java + Spring Boot      | [GitHub](https://github.com/thegoddo/finance_backend) |
+| Finance Backend   | Backend APIs for finance-related workflows                                    | MERN                    | [GitHub](https://github.com/thegoddo/finance_backend) |
 
 ---
 
