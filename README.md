@@ -48,6 +48,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/thegoddo/thegoddo/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
 ## 🤝 Connect
 
 - LinkedIn: [thegoddo](https://www.linkedin.com/in/thegoddo)
