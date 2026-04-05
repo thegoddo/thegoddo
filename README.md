@@ -1,75 +1,30 @@
-## Hi there! 👋
+# theGoddo
 
-### I'm Biswajit Shaw, also known as thegoddo in the GitHub community.
+<!-- markdownlint-disable MD033 MD013 -->
 
----
+<div align="center">
 
-## 🚀 About Me
+<table>
+    <tr>
+        <td width="75%" align="center" valign="top">
+            <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+theGoddo%2C+a+tech+goblin+and+strawhat+crew+wannabe+%E2%9C%A9" alt="Typing intro banner" width="100%" />
+            <br><br>
+            <pre>
+        💼 NEET @ NONE • Searching...
+        💻 System programming languages • Web Dev
+        📖 Software architecture • Cyber Security
+        🎮 Music • Games • Anime • Code • Art • One Piece
+        🐾 Sheru 🐶 • samosa & biryani & litti - chokha 😋🍴
+            </pre>
+            <br>
+            <img src="./assets/hat.png" alt="Kyubey gif" height="40" />
+        </td>
+        <td width="25%" align="right" valign="top">
+            <img src="https://raw.githubusercontent.com/thegoddo/thegoddo/main/assets/crew.png" alt="Strawhat crew art" height="100%" />
+        </td>
+    </tr>
+</table>
+<br><br>
+</div>
 
-- 🌟 Active GitHub user with 13 public repositories and 153 commits.
-- 💻 Skilled in Python, JavaScript, Java, CSS, Dockerfile, and more.
-- 🎯 Interested in developing tools and utilities like a Torrent scraper (fmedia) and a note-taking app (NoteM).
-
----
-
-## 🔧 Skills & Expertise
-
-- Python
-- JavaScript
-- Java
-- Dockerfile
-- CSS
-
----
-
-## 🔥 Projects 
-
-Here are some of my noteworthy projects:
-
-- [fmedia](https://github.com/thegoddo/fmedia): A practical Python project with significant stars.
-- [NoteM](https://github.com/thegoddo/NoteM): A note-taking application showcasing my development skills.
-- Chatter: An interesting tool for communication.
-- Wiki-py: A project focused on knowledge
-- Taskthon: A task management tool
-- ...and more! Check out my GitHub for the full list!
-
----
-
-## 👥 GitHub Community
-
-- 🌈 Growing presence with 7 followers appreciating my work.
-- 🤝 Actively involved in project contributions and engagement with other repositories.
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: biswajitshaw731732@gmail.com
-- LinkedIn: [Connect with me!](https://www.linkedin.com/in/biswajit-shaw-525a91164/)
-
----
-
-## 🌟 More About Me
-
-I am Biswajit Shaw, a dedicated coder with a passion for developing practical solutions. My experience in languages like Python and Java drives me to explore various domains through my projects. The active engagement with GitHub repositories and the community fuels my creativity and enthusiasm for coding.
-
-I enjoy creating tools that make a difference and appreciate the support of my followers and collaborators. If you're interested in cutting-edge projects or collaboration opportunities, feel free to reach out!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thegoddo)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegoddo)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thegoddo)](https://git.io/streak-stats)
-
----
-
-## 🚀 Let's Connect!
-
-I'm always open to exciting projects, collaborations, and discussions. Don't hesitate to reach out and explore the world of coding with me!
-
-Drop me an email or connect with me on LinkedIn. I look forward to connecting with like-minded individuals and creating impactful projects together.
-
-Keep coding, and keep innovating! 🌟
-
----
-
-### Thank you for visiting my GitHub profile! 🚀
+<!-- markdownlint-enable MD033 MD013 -->
