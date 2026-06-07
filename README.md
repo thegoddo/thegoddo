@@ -14,7 +14,6 @@
     🐾 Sheru 🐶 • samosa & biryani & litti - chokha 😋🍴
 </pre>
 <br>
-<!-- <img src="./assets/hat.png" alt="Kyubey gif" height="40" /> -->
 <br clear="right" />
 <br><br>
 </div>
@@ -26,11 +25,11 @@
 | Project           | What It Does                                                                  | Stack                   | Repository                                            |
 | ----------------- | ----------------------------------------------------------------------------- | ----------------------- | ----------------------------------------------------- |
 | jlox              | Java implementation of a Lox interpreter (language/runtime building practice) | Java                    | [GitHub](https://github.com/thegoddo/jlox)            |
-| ImageKit          | Image processing/manipulation focused project                                 | EJS & Express                   | [GitHub](https://github.com/thegoddo/imagekit)        |
-| NETWATCH          | Network monitoring and observation utility                                    | MERN + Networking tools | [GitHub](https://github.com/thegoddo/NETWATCH)        |
-| BaatCheet Backend | Backend services for chat/messaging workflows                                 | MERN (Backend)          | [GitHub](https://github.com/thegoddo/backend)         |
+| ImageKit          | Image processing and manipulation dashboard                                   | EJS & Express           | [GitHub](https://github.com/thegoddo/imagekit)        |
+| NETWATCH          | Real-time network monitoring and observation utility                          | MERN + Networking tools | [GitHub](https://github.com/thegoddo/NETWATCH)        |
+| BaatCheet Backend | Robust backend services for chat and instant messaging workflows              | MERN (Backend)          | [GitHub](https://github.com/thegoddo/backend)         |
 | Chip8             | CHIP-8 emulator project for low-level systems learning                        | C/C++                   | [GitHub](https://github.com/thegoddo/chip_8)          |
-| Finance Backend   | Backend APIs for finance-related workflows                                    | MERN                    | [GitHub](https://github.com/thegoddo/finance_backend) |
+| Finance Backend   | Secure backend APIs for personal finance management workflows                 | MERN                    | [GitHub](https://github.com/thegoddo/finance_backend) |
 
 ---
 
@@ -38,11 +37,10 @@
 
 <p align="center">
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" alt="javascript">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" alt="python>
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" alt="python">
 <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" alt="react">
-<!-- <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100" alt="vue"> -->
 <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100" alt="node">
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" alt="GitHub">;
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" alt="GitHub">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" alt="VSCode">
 </p>
 
@@ -58,14 +56,14 @@
 
 ## 🤝 Connect
 
-- LinkedIn: [thegoddo](https://www.linkedin.com/in/thegoddo)
-- Portfolio: [thegoddo.github.io](https://thegoddo.github.io/)
-- Email: <biswajitshaw220@gmail.com>
+- **LinkedIn:** [thegoddo](https://www.linkedin.com/in/thegoddo)
+- **Portfolio:** [thegoddo.github.io](https://thegoddo.github.io/)
+- **Email:** biswajitshaw220@gmail.com
 
 ---
 
 <div align="center">
-<img src="./assets/hat.png" alt="Kyubey gif" height="40" />
+<img src="https://raw.githubusercontent.com/thegoddo/thegoddo/main/assets/hat.png" alt="Straw hat icon" height="40" />
 <br clear="right" />
 </div>
 <!-- markdownlint-enable MD033 MD013 -->
