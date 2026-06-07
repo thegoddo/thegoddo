@@ -26,7 +26,7 @@
 | Project           | What It Does                                                                  | Stack                   | Repository                                            |
 | ----------------- | ----------------------------------------------------------------------------- | ----------------------- | ----------------------------------------------------- |
 | jlox              | Java implementation of a Lox interpreter (language/runtime building practice) | Java                    | [GitHub](https://github.com/thegoddo/jlox)            |
-| ImageKit          | Image processing/manipulation focused project                                 | C/C++                   | [GitHub](https://github.com/thegoddo/imagekit)        |
+| ImageKit          | Image processing/manipulation focused project                                 | EJS & Express                   | [GitHub](https://github.com/thegoddo/imagekit)        |
 | NETWATCH          | Network monitoring and observation utility                                    | MERN + Networking tools | [GitHub](https://github.com/thegoddo/NETWATCH)        |
 | BaatCheet Backend | Backend services for chat/messaging workflows                                 | MERN (Backend)          | [GitHub](https://github.com/thegoddo/backend)         |
 | Chip8             | CHIP-8 emulator project for low-level systems learning                        | C/C++                   | [GitHub](https://github.com/thegoddo/chip_8)          |
